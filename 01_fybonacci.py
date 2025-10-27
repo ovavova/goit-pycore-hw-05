@@ -31,7 +31,7 @@ if __name__ == "__main__":
     print(fib(10))
     print(fib(15))
 
-    # testing faster cache
+    # Testing faster cache
     iterations = 900  # Setting datapoint
 
     start_1 = time.time()
